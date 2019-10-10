@@ -1,2 +1,8 @@
 Test 1 - Leo Santos
+<<<<<<< HEAD
 Test 2 - Gui Nascimento
+=======
+
+
+GALEGOOOO!!!!
+>>>>>>> mudei tudo
